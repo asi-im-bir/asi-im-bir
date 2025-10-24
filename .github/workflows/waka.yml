@@ -1,0 +1,24 @@
+name: WakaTime Readme Stats
+
+on:
+  schedule:
+    # Runs at 12 AM UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Dev Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@v2
+        with:
+          # This uses the secret you just created
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # This defines the section in your README where the output will go
+          SECTION_NAME: waka
+          # Configuration to show the data you want (tools/editors/time)
+          SHOW_OS: "True" 
+          SHOW_TIME_MACHINE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_PROJECTS: "False"
