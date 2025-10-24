@@ -44,16 +44,5 @@ My unique value is the strategic integration of Governance, Cloud Security, and 
 
 ----
 <div align="center">
-  
-## 📊 Activity & Development Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asi-im-bir&layout=compact&theme=vision-friendly-light" alt="Most Used Languages" width="400px"/>
-
-### Most Used Tools & Editors
-
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asi-im-bir&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asi-im-bir&layout=compact&theme=vision-friendly-light" alt="Most Used Languages" width="400px"/>
 </div>
