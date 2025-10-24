@@ -45,11 +45,7 @@ My unique value is the strategic integration of Governance, Cloud Security, and 
 </p>
 
 ---
-
-## 📈 Activity & Development Stats
-
 ### Most Used Languages (Calculated from GitHub Repos)
 
-[![Top Langs](
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asi-im-bir&layout=compact&theme=vision-friendly-light)](https://github.com/asi-im-bir)
 
