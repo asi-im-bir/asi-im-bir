@@ -1,9 +1,7 @@
 ✏️# Hi 👋,
-
 My unique value is the strategic integration of Governance, Cloud Security, and Data Analytics to manage modern digital risk.
 
 [![GitHub followers](https://img.shields.io/github/followers/asi-im-bir?style=social)](https://github.com/asi-im-bir)
-
 ---
 
 ## 🛠️ Technical Ecosystem & Expertise
@@ -44,8 +42,7 @@ My unique value is the strategic integration of Governance, Cloud Security, and 
 <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
----
-
+----
 <div align="center">
   
 ## 📊 Activity & Development Stats
@@ -57,7 +54,6 @@ My unique value is the strategic integration of Governance, Cloud Security, and 
 </div>
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asi-im-bir&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
