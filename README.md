@@ -44,6 +44,5 @@ My unique value is the strategic integration of Governance, Cloud Security, and 
 </p>
 
 ----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asi-im-bir&layout=compact&theme=vision-friendly-light" alt="Most Used Languages" width="400px"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asi-im-bir&show_icons=true)
+
