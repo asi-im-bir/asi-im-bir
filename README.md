@@ -3,12 +3,6 @@
 Building secure, scalable systems and intelligent automation solutions.
 
 ---
-
-## 📈 GitHub Analytics
-![Metrics](https://github.com/asi-im-bir/asi-im-bir/blob/main/github-metrics.svg)
-
----
-
 ## 🧩 Professional Skills Overview
 
 ### 🏛️ Standards & Frameworks
