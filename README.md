@@ -1,52 +1,38 @@
-✏️
-# Hi 👋,
-My unique value is the strategic integration of Governance, Cloud Security, and Data Analytics to manage modern digital risk.
+# 👋 Hi, I'm Asi Im Bir
+Full-Stack | GRC | Cloud & Automation Developer  
+Building secure, scalable systems and intelligent automation solutions.
 
-[![GitHub followers](https://img.shields.io/github/followers/asi-im-bir?style=social)](https://github.com/asi-im-bir)
 ---
 
-## 🛠️ Technical Ecosystem & Expertise
+## 📈 GitHub Analytics
+![Metrics](https://github.com/asi-im-bir/asi-im-bir/blob/main/github-metrics.svg)
 
-### Governance & Compliance Frameworks
-<p align="left">
-<img src="https://img.shields.io/badge/NIST-00438F?style=for-the-badge&logo=Nist&logoColor=white" alt="NIST" />
-<img src="https://img.shields.io/badge/ISO 27001-A20000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="ISO 27001" />
-<img src="https://img.shields.io/badge/GDPR-4066E0?style=for-the-badge&logo=gdpr&logoColor=white" alt="GDPR" />
-<img src="https://img.shields.io/badge/COBIT-003399?style=for-the-badge&logoColor=white" alt="COBIT" />
-<img src="https://img.shields.io/badge/COSO-000000?style=for-the-badge&logoColor=white" alt="COSO" />
-<img src="https://img.shields.io/badge/ISO 22301-38A169?style=for-the-badge&logo=googleforms&logoColor=white" alt="ISO 22301" />
-</p>
+---
 
-### ERP & Business Systems
-<p align="left">
-<img src="https://img.shields.io/badge/SAP S/4HANA-0091DA?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA" />
-<img src="https://img.shields.io/badge/SAP GRC-0091DA?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GRC" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
-<img src="https://img.shields.io/badge/Microsoft 365-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft 365" />
-<img src="https://img.shields.io/badge/Signavio-FF4500?style=for-the-badge&logoColor=white" alt="Signavio" />
-</p>
+## 🧩 Professional Skills Overview
 
-### Cloud, Security & Engineering
-<p align="left">
-<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Microsoft Entra ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra ID" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
+### 🏛️ Standards & Frameworks
+COSO • COBIT • ISO 27001 • GDPR • ISO 22301 • NIST
 
-### Data & Visualization
-<p align="left">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+### 🧠 ERP & Business Systems
+![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP GRC](https://img.shields.io/badge/SAP_GRC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Signavio](https://img.shields.io/badge/Signavio-FF69B4?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-13A564?style=for-the-badge&logo=servicenow&logoColor=white)
 
-----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asi-im-bir&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asi-im-bir&layout=compact)
+### ☁️ Cloud & Security
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+### 📊 Data Analytics & Visualization
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
