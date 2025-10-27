@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Asi Im Bir
-Full-Stack | GRC | Cloud & Automation Developer  
+
 Building secure, scalable systems and intelligent automation solutions.
 
 ---
