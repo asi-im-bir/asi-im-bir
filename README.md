@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asi Im Bir
+# 👋 Hi, I'm Asiye
 
 Building secure, scalable systems and intelligent automation solutions.
 
