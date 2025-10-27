@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Asiye
 
-Building secure, scalable systems and intelligent automation solutions.
-
 ---
 ## 🧩 Professional Skills Overview
 
