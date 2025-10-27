@@ -1,7 +1,7 @@
 # 👋 **Hi, I'm Asiye** 
 ![CISA](https://img.shields.io/badge/Certification-CISA-red?style=for-the-badge) ![CRISC](https://img.shields.io/badge/Certification-CRISC-darkgreen?style=for-the-badge) ![ISO27001LA](https://img.shields.io/badge/Certification-ISO27001%20Lead%20Auditor-blueviolet?style=for-the-badge) ![ISO42001LA](https://img.shields.io/badge/Certification-ISO42001%20Lead%20Auditor-darkblue?style=for-the-badge)
 
-## 🧩 *Skills Overview**
+## 🧩 **Skills Overview**
 ---
 ### 🎯 **Standards and Frameworks**
 ![Governance](https://img.shields.io/badge/Governance-COSO-blue?style=for-the-badge)
