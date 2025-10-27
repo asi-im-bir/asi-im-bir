@@ -1,5 +1,9 @@
 # 👋 **Hi, I'm Asiye** 
-![CISA](https://img.shields.io/badge/Certification-CISA-red?style=for-the-badge) ![CRISC](https://img.shields.io/badge/Certification-CRISC-darkgreen?style=for-the-badge) ![ISO27001LA](https://img.shields.io/badge/Certification-ISO27001%20Lead%20Auditor-blueviolet?style=for-the-badge) ![ISO42001LA](https://img.shields.io/badge/Certification-ISO42001%20Lead%20Auditor-darkblue?style=for-the-badge)
+![CISA](https://img.shields.io/badge/CISA-red?style=for-the-badge)
+![CRISC](https://img.shields.io/badge/CRISC-darkgreen?style=for-the-badge)
+![ISO27001LA](https://img.shields.io/badge/ISO%2027001%20Lead%20Auditor-blueviolet?style=for-the-badge)
+![ISO42001LA](https://img.shields.io/badge/ISO%2042001%20Lead%20Auditor-darkblue?style=for-the-badge)
+
 
 ## 🧩 **Skills Overview**
 ---
