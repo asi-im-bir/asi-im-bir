@@ -58,5 +58,4 @@
 ![Containerization](https://img.shields.io/badge/Containerization-Docker%20%7C%20Kubernetes%20%7C%20Helm-0db7ed?style=for-the-badge)
 ![Secrets](https://img.shields.io/badge/Secrets%20Management-Vault%20%7C%20AWS%20Secrets%20Manager%20%7C%20Azure%20Key%20Vault-darkgreen?style=for-the-badge)
 ![Metrics](https://img.shields.io/badge/Metrics%20%26%20Alerting-Prometheus%20%7C%20Grafana-red?style=for-the-badge)
-![DevSecOpsFrameworks](https://img.shields.io/badge/Security%20Frameworks-OWASP%20SAMM%20%7C%20NIST%20SP%20800--204%20%7C%20CNCF%20Secure%20Supply%20Chain-purple?style=for-the-badge)
 
