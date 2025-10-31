@@ -7,15 +7,13 @@
 ---
 
 ## 🧩 Skills Overview
-
-### 🎯 Standards and Frameworks
 ![Governance](https://img.shields.io/badge/Governance-COSO-blue?style=flat-square)
+![Framework](https://img.shields.io/badge/Framework-COBIT-purple?style=flat-square)
 ![Compliance](https://img.shields.io/badge/Compliance-ISO27001-success?style=flat-square)
 ![Risk](https://img.shields.io/badge/Risk-NIST800--53-orange?style=flat-square)
+![Directive](https://img.shields.io/badge/Regulation-NIS2-blueviolet?style=flat-square)
 ![Privacy](https://img.shields.io/badge/Privacy-GDPR-yellow?style=flat-square)
 ![Continuity](https://img.shields.io/badge/Continuity-ISO22301-lightgrey?style=flat-square)
-![Framework](https://img.shields.io/badge/Framework-COBIT-purple?style=flat-square)
-
 ---
 
 ### 🧠 ERP & Business Systems
