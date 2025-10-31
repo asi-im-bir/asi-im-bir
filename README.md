@@ -124,11 +124,5 @@ This section connects each of my **Governance, Risk & Compliance (GRC)**, **Clou
 
 ---
 
-## ✅ **Summary**
-
-This portfolio demonstrates a balance of **GRC automation, cloud infrastructure hardening, endpoint defense, and business process integration**.  
-Each project aligns with globally recognized standards such as **ISO 27001**, **NIS2**, and **NIST 800-53**, showcasing strong implementation in **Python**, **Terraform**, **Azure**, **Kubernetes**, **Tableau**, and **SAP GRC**.
-
----
 
 
