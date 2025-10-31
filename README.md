@@ -68,7 +68,9 @@
 ![Metrics](https://img.shields.io/badge/Metrics%20%26%20Alerting-Prometheus%20%7C%20Grafana-red?style=flat-square)
 
 
-# 🧩 Project–Skills Mapping Overview
+
+## 🧩 Project–Skills Mapping Overview
+
 
 This section connects each of my **Governance, Risk & Compliance (GRC)**, **Cloud Security & DevSecOps**, **Endpoint Security**, **Data Analytics**, and **ERP/Automation** projects with the relevant frameworks, standards, and tools used in each.
 
