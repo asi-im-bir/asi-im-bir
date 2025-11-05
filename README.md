@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Asiye, I am writing codes solving real world problems 
+## 👋 Hi, this is Asiye, I am writing codes solving real world problems 
 ![CISA](https://img.shields.io/badge/CISA-red?style=flat-square)
 ![CRISC](https://img.shields.io/badge/CRISC-darkgreen?style=flat-square)
 ![ISO27001LA](https://img.shields.io/badge/ISO%2027001%20Lead%20Auditor-blueviolet?style=flat-square)
