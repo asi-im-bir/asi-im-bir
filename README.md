@@ -5,6 +5,8 @@ I am writing codes solving real world problems
 ![CRISC](https://img.shields.io/badge/CRISC-darkgreen?style=flat-square)
 ![ISO27001LA](https://img.shields.io/badge/ISO%2027001%20Lead%20Auditor-blueviolet?style=flat-square)
 ![ISO42001LA](https://img.shields.io/badge/ISO%2042001%20Lead%20Auditor-darkblue?style=flat-square)
+![SC-900](https://img.shields.io/badge/SC_900_Labs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 
 ---
 
@@ -28,10 +30,28 @@ I am writing codes solving real world problems
 
 ---
 
-### ☁️ Cloud & Security
+### ☁️ Cloud & Security & Auditing
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![AzureDefender](https://img.shields.io/badge/Azure_Defender_for_Cloud-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0A6ED1?style=flat-square&logo=microsoft&logoColor=white)
+![AzureDefender](https://img.shields.io/badge/Azure_Defender_for_Cloud-1A73E8?style=flat-square&logo=microsoft&logoColor=white)
+![AzureRBAC](https://img.shields.io/badge/Azure_RBAC_Access_Review-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AzureNSG](https://img.shields.io/badge/Azure_NSG_Analysis-0A6ED1?style=flat-square&logo=microsoftazure&logoColor=white)
+![AzureVMs](https://img.shields.io/badge/Azure_VM_Security_Review-1A73E8?style=flat-square&logo=microsoftazure&logoColor=white)
+![AzureVNet](https://img.shields.io/badge/Azure_VNet_&_Firewall_Audit-005FB8?style=flat-square&logo=microsoftazure&logoColor=white)
+![AzureMonitor](https://img.shields.io/badge/Azure_Monitor_&_Log_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AzureActivityLogs](https://img.shields.io/badge/Azure_Activity_Log_Analysis-1A73E8?style=flat-square&logo=microsoftazure&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC_900_Labs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM_Audit-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM_Policy_Simulator](https://img.shields.io/badge/IAM_Policy_Simulator-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2_Security_Review-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Security_Groups](https://img.shields.io/badge/Security_Group_Analysis-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC_&_NACL_Audit-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch_Monitoring-232F3E?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail_Log_Analysis-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
