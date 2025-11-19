@@ -89,10 +89,9 @@ I am writing codes solving real world problems
 
 
 
-## 🧩 Project–Skills Mapping Overview
+The following overview demonstrates the practical application of industry standards and technical tools across my core domains: GRC, Cloud Security & DevSecOps,  Security, Data Analytics, and ERP/Automation. It connects key deliverables to the methodologies used to achieve them.
 
-
-This section connects each of my **Governance, Risk & Compliance (GRC)**, **Cloud Security & DevSecOps**, **Endpoint Security**, **Data Analytics**, and **ERP/Automation** projects with the relevant frameworks, standards, and tools used in each.
+Please note that this public portfolio is not exhaustive. Additional specialized projects—specifically Cloud-Agnostic Audit AI Automation Scripting and Tailored Security, BCM & Risk Awareness Design Packs—are available upon request to demonstrate specific competencies.
 
 ---
 
