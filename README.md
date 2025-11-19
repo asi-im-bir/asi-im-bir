@@ -5,7 +5,7 @@ I am writing codes solving real world problems
 ![CRISC](https://img.shields.io/badge/CRISC-darkgreen?style=flat-square)
 ![ISO27001LA](https://img.shields.io/badge/ISO%2027001%20Lead%20Auditor-blueviolet?style=flat-square)
 ![ISO42001LA](https://img.shields.io/badge/ISO%2042001%20Lead%20Auditor-darkblue?style=flat-square)
-![SC-900](https://img.shields.io/badge/SC_900_Labs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC_900_-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 
 ---
